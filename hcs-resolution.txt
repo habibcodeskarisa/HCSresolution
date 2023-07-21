@@ -1,0 +1,3 @@
+HCS RESOLUTION
+- Membuat website responsive
+- Konsisten 
