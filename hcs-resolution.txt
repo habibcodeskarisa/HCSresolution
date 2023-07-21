@@ -1,3 +1,4 @@
 HCS RESOLUTION
 - Membuat website responsive
 - Konsisten 
+- Kolaborasi dengan banyak expert
