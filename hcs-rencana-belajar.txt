@@ -3,3 +3,5 @@ RENCANA BELAJAR (HCS)
 - Memiliki Komputer pribadi and laptop pribadi untuk bisa dibawa kemana aja
 - Bergabung dengan komunitas (expert)
 - Membuat website portofolio
+  * Membuat Navigation Bar 
+- mahir menggunakan text editor
