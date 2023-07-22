@@ -4,4 +4,5 @@ RENCANA BELAJAR (HCS)
 - Bergabung dengan komunitas (expert)
 - Membuat website portofolio
   * Membuat Navigation Bar 
+  * Membuat beadcrumb
 - mahir menggunakan text editor
