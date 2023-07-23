@@ -5,4 +5,5 @@ RENCANA BELAJAR (HCS)
 - Membuat website portofolio
   * Membuat Navigation Bar 
   * Membuat beadcrumb
+  * Membuat Landing pages
 - mahir menggunakan text editor
