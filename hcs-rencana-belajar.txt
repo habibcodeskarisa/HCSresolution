@@ -5,4 +5,5 @@ RENCANA BELAJAR (HCS)
   * Membuat Navigation Bar 
   * Membuat beadcrumb
   * Membuat Landing pages
+  * Footer
 - mahir menggunakan text editor
